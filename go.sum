@@ -1,5 +1,6 @@
-antrea.io/libOpenflow v0.6.2 h1:1JMSJ7Lp7yOhKybHey9VDtRI6JuIgkhUWJBX5GIFY9I=
 antrea.io/libOpenflow v0.6.2/go.mod h1:CzEJZxDNAupiGxeL5VOw92PsxfyvehEAvE3PiC6gr8o=
+antrea.io/libOpenflow v0.7.1 h1:KJQ4ez7JCXLCTeaz4gPzk27HK4zOXczMa9c2Ud/QAnk=
+antrea.io/libOpenflow v0.7.1/go.mod h1:CzEJZxDNAupiGxeL5VOw92PsxfyvehEAvE3PiC6gr8o=
 antrea.io/ofnet v0.5.7 h1:x0q0lZqp05wu01gk1+S5S15FmIpmTGPhi/z/aIDmuMw=
 antrea.io/ofnet v0.5.7/go.mod h1:8TJVF6MLe9/gZ/KbhGUvULs9/TxssepEaYEe+o1SEgs=
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
